@@ -1,26 +1,77 @@
-# devfolio
-A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
+# Personal Portfolio 🔥
+> https://rajaprerak.github.io/
 
-View the [demo here](https://mmacneil.github.io/devfolio/).
+:star: Star me on GitHub — it helps!
 
-### Desktop version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-desktop.gif" />
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Responsive version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-responsive.gif" height="485" />
+### Website Preview
+#### Home Page
+<img src="website_images/HomePage.gif" width="900">
 
-## Setup
 
-1. Clone, fork or create a template from this repository.
-2. Install required dependencies from your terminal by running `npm install` from the project folder root containing `package.json`.
- <pre>
- <code>src\>npm install</code></pre>
-3. Use webpack to compile and bundle the css/js by running `npm run build` from the project folder root containing `webpack.config.js`.  Webpack will also begin watching these files for changes and re-build as they're modified.
- <pre>
- <code>src\>npm run build</code></pre>
- 4. Open `index.html` locally in your favorite browser.
- 5. Modify accordingly - styles, colors and variables can be changed in `styles.scss`.  Refer to the Bulma docs for guidance on how to quickly customize further to suit your tastes using  [color helpers](https://bulma.io/documentation/modifiers/color-helpers/) and [variables](https://bulma.io/documentation/customize/variables/).  See the [Flickity](https://github.com/metafizzy/flickity) docs if you wish to modify the carousel.
- 
- ## Contact
- markmacneil@gmail.com
- 
+#### About Page
+<img src="website_images/AboutPage.png" width="900">
+
+
+#### Projects Page
+<img src="website_images/ProjectPage.png" width="900">
+  
+
+
+:star: Star me on GitHub — it helps!
+
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation using `Typed.js`\
+⚡️ Easy to modify
+
+## Installation & Deployment 📦
+- Clone the repository and modify the content of <b>index.html</b> 
+- Add or remove images from `assets/img/` directory as per your requirement.
+- Update the info of `projects` folder according to your need
+- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
+- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+
+## Sections 📚
+✔️ About\
+✔️ Interests\
+✔️ Education\
+✔️ Online Certification\
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
+✔️ Resume\
+✔️ Contact Info
+
+
+
+## Tools Used 🛠️
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+
+## Contributing 💡
+#### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine.
+
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
