@@ -1,77 +1,53 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+<div align="center">
+    <img
+    src="favicon.svg"
+    alt="Linux Tux Icon"
+    width="48"
+/>
+  <h1 align="center">Portafolio personal</h1>
+  <h4 align="center">Portafolio en línea de Elías Valdez Miranda</h4>
+  <h4 align="center"><a href="https://eliasvaldezmiranda.github.io/">Revisa el portafolio aquí</a></h4>
+</div>
 
-:star: Star me on GitHub — it helps!
+## 📢 Origen del Portafolio 
+- Este portafolio es una modificación del portafolio desarrollado y compartido por [Prerak Raja](https://github.com/rajaprerak), cuyo repositorio se puede encontrar [aquí](https://github.com/rajaprerak/rajaprerak.github.io.git).
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-### Website Preview
-#### Home Page
+## 🔎 Previsualización del Sitio
+### Página de inicio
 <img src="website_images/HomePage.gif" width="900">
 
-
-#### About Page
+### Página de perfil
 <img src="website_images/AboutPage.png" width="900">
 
 
-#### Projects Page
+### Página de proyectos
 <img src="website_images/ProjectPage.png" width="900">
   
+## 📋 Características
+⚡️ Completamente responsivo\
+⚡️ HTML5 y CSS3 válido\
+⚡️ Animación de escritura utilizando `Typed.js`\
+⚡️ Fácil de modificar
 
+## 📦 Instalación y Despliegue
+- Clona el repositorio y modifica el contenido de <b>index.html</b> 
+- Agrega o elimina imágenes del directorio `assets/img/` de acuerdo con tus necesidades.
+- Actualiza la información del directorio `projects` de acuerdo con tus necesidades.
+- Utiliza [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) para crear tu propio sitio web.
+- Para desplegar tu sitio web, primero necesitarás crear un repositorio de GitHub con le nombre `<tu-nombre-de-usuario-de-github>.github.io` y subir el código generado a la rama `main`.
 
-:star: Star me on GitHub — it helps!
+## 📚 Secciones
+✔️ Perfil\
+✔️ Educación\
+✔️ Habilidades\
+✔️ Proyectos\
+✔️ Currículum\
+✔️ Contacto\
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+## 🛠️ Herramientas utilizadas
+* <b>GitHub Pages</b> - Alojamiento del sitio estático (HTML, CSS, JS).
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
-
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
-
-
-
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
-
-## Contributing 💡
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License
+## ⚖️ Licencia
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[Licencia MIT](http://opensource.org/licenses/mit-license.php)**
