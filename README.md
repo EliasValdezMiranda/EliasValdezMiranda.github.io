@@ -1,6 +1,6 @@
 <div align="center">
     <img
-    src="favicon.svg"
+    src="favicon.png"
     alt="Linux Tux Icon"
     width="48"
 />
